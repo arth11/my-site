@@ -3,136 +3,136 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.example.com/ja/posts/featuresofcoderportfolio/</loc>
+    <loc>https://arth11.github.io/my-site/ja/posts/featuresofcoderportfolio/</loc>
     <lastmod>2018-08-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/posts/featuresofcoderportfolio/"
+                href="https://arth11.github.io/my-site/posts/featuresofcoderportfolio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://www.example.com/ja/posts/featuresofcoderportfolio/"
+                href="https://arth11.github.io/my-site/ja/posts/featuresofcoderportfolio/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/ja/posts/theme-demo/</loc>
+    <loc>https://arth11.github.io/my-site/ja/posts/theme-demo/</loc>
     <lastmod>2018-08-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/posts/theme-demo/"
+                href="https://arth11.github.io/my-site/posts/theme-demo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://www.example.com/ja/posts/theme-demo/"
+                href="https://arth11.github.io/my-site/ja/posts/theme-demo/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/ja/about/</loc>
+    <loc>https://arth11.github.io/my-site/ja/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/about/"
+                href="https://arth11.github.io/my-site/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://www.example.com/ja/about/"
+                href="https://arth11.github.io/my-site/ja/about/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/ja/categories/</loc>
+    <loc>https://arth11.github.io/my-site/ja/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/categories/"
+                href="https://arth11.github.io/my-site/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://www.example.com/ja/categories/"
+                href="https://arth11.github.io/my-site/ja/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/ja/contact/</loc>
+    <loc>https://arth11.github.io/my-site/ja/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/contact/"
+                href="https://arth11.github.io/my-site/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://www.example.com/ja/contact/"
+                href="https://arth11.github.io/my-site/ja/contact/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/ja/posts/</loc>
-    <lastmod>2018-08-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.example.com/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="http://www.example.com/ja/posts/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/ja/projects/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.example.com/projects/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="http://www.example.com/ja/projects/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/ja/tags/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.example.com/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="http://www.example.com/ja/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/ja/</loc>
+    <loc>https://arth11.github.io/my-site/ja/posts/</loc>
     <lastmod>2018-08-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/"
+                href="https://arth11.github.io/my-site/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://www.example.com/ja/"
+                href="https://arth11.github.io/my-site/ja/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://arth11.github.io/my-site/ja/projects/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arth11.github.io/my-site/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://arth11.github.io/my-site/ja/projects/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://arth11.github.io/my-site/ja/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arth11.github.io/my-site/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://arth11.github.io/my-site/ja/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://arth11.github.io/my-site/ja/</loc>
+    <lastmod>2018-08-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arth11.github.io/my-site/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://arth11.github.io/my-site/ja/"
                 />
   </url>
   

@@ -1,5 +1,5 @@
-baseurl = "http://www.example.com"
-title = "Yusuke Ishimi"
+baseurl = "https://arth11.github.io/my-site/"
+title = "Artur Chojnacki"
 
 theme = "portfolio"
 themesDir = "themes"
