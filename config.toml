@@ -4,7 +4,7 @@ title = "Yusuke Ishimi"
 theme = "portfolio"
 themesDir = "themes"
 DefaultContentLanguage = "en"
-
+publishDir = "docs"
 paginate = 20
 
 pygmentsstyle = "b2"
