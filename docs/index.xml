@@ -104,17 +104,16 @@ Follow the following steps:
     </item>
     
     <item>
-      <title>About Hugo</title>
+      <title>About me</title>
       <link>https://arth11.github.io/my-site/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://arth11.github.io/my-site/about/</guid>
-      <description>This theme is created based on hugo-coder.
-I made it possible to tell yourself more by my change.
-Please see &amp;ldquo;FeaturesOfCoderPortfolio&amp;rdquo; in the post about the change. Regarding other demo contents, it is hugo-coder&amp;rsquo;s thing.
-Have questions or suggestions? Feel free to open an issue on GitHub or ask me on Twitter.
+      <description>Experienced .NET Developer with a demonstrated history of working in the information technology and services industry. Strong engineering professional skilled in programming in C#, T-SQL, JavaScript, Golang, TypeScript and VB.
 Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including :</description>
+It makes use of a variety of open source projects including :
+ Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
+Setup Some fun facts about Hugo:</description>
     </item>
     
     <item>

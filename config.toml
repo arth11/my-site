@@ -21,13 +21,13 @@ disqusShortname = "yourdiscussshortname"
     info = "WEB AND APPS ENGINEER"
     avatarurl = "images/avatar.jpg"
     footercontent = "Enter a text here."
-    fixedbarContent = "Do you want to know me more private?→"
+    fixedbarContent = "2019"
     fixedbarContentAfter = "Thank You! Please share it if you like it→"
 
     hideCredits = true
     hideCopyright = true
 
-    snsShare = true
+    snsShare = false
 
     thumbnail = "images/tn.png"
 
