@@ -47,12 +47,38 @@
   </url>
   
   <url>
+    <loc>https://arth11.github.io/my-site/ja/</loc>
+    <lastmod>2018-08-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arth11.github.io/my-site/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://arth11.github.io/my-site/pl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://arth11.github.io/my-site/ja/"
+                />
+  </url>
+  
+  <url>
     <loc>https://arth11.github.io/my-site/ja/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://arth11.github.io/my-site/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://arth11.github.io/my-site/pl/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -115,24 +141,13 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="pl"
+                href="https://arth11.github.io/my-site/pl/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ja"
                 href="https://arth11.github.io/my-site/ja/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://arth11.github.io/my-site/ja/</loc>
-    <lastmod>2018-08-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://arth11.github.io/my-site/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://arth11.github.io/my-site/ja/"
                 />
   </url>
   

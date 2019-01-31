@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://arth11.github.io/my-site/pl/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arth11.github.io/my-site/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://arth11.github.io/my-site/ja/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://arth11.github.io/my-site/pl/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://arth11.github.io/my-site/pl/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arth11.github.io/my-site/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://arth11.github.io/my-site/ja/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://arth11.github.io/my-site/pl/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://arth11.github.io/my-site/pl/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://arth11.github.io/my-site/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://arth11.github.io/my-site/ja/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://arth11.github.io/my-site/pl/tags/"
+                />
+  </url>
+  
+</urlset>

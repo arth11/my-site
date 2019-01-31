@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://arth11.github.io/my-site/pl/about/</loc>
+    <lastmod>2019-01-31T12:51:12+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://arth11.github.io/my-site/post/about-me/</loc>
     <lastmod>2019-01-30T21:22:40+01:00</lastmod>
   </url>
@@ -73,8 +78,13 @@
   
   <url>
     <loc>https://arth11.github.io/my-site/</loc>
-    <lastmod>2019-01-30T21:22:40+01:00</lastmod>
+    <lastmod>2019-01-31T12:51:12+01:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://arth11.github.io/my-site/pl/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -90,6 +100,11 @@
   <url>
     <loc>https://arth11.github.io/my-site/categories/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://arth11.github.io/my-site/pl/categories/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -153,6 +168,12 @@
   </url>
   
   <url>
+    <loc>https://arth11.github.io/my-site/pl/</loc>
+    <lastmod>2019-01-31T12:51:12+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://arth11.github.io/my-site/post/</loc>
     <lastmod>2019-01-30T21:22:40+01:00</lastmod>
     <priority>0</priority>
@@ -192,6 +213,11 @@
     <loc>https://arth11.github.io/my-site/tags/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://arth11.github.io/my-site/pl/tags/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
