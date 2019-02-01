@@ -98,20 +98,20 @@ disqusShortname = "yourdiscussshortname"
             keywords = "blog,developer,strona domowa"
              info = "WEB AND APPS ENGINEER"
 
-        [languages.ja.menu]
-            [[languages.ja.menu.main]]
-                name = "テーマについて"
-                weight = 1.0
-                url = "ja/about"
-            [[languages.ja.menu.main]]
-                name = "ブログ"
-                weight = 2.0
-                url = "ja/posts"
-            [[languages.ja.menu.main]]
-                name = "プロジェクト"
-                weight = 3
-                url = "ja/projects"
-            [[languages.ja.menu.main]]
-                name = "お問い合わせ"
-                weight = 5
-                url = "ja/contact"
+      #   [languages.pl.menu]
+         #    [[languages.pl.menu.main]]
+          #       name = "About"
+           #      weight = 1.0
+           #      url = "pl/about"
+          #   [[languages.ja.menu.main]]
+          #      name = "ブログ"
+            #   weight = 2.0
+            #   url = "ja/posts"
+        #   [[languages.ja.menu.main]]
+        #        name = "プロジェクト"
+         #      weight = 3
+         #      url = "ja/projects"
+           # [[languages.ja.menu.main]]
+            #    name = "お問い合わせ"
+             #   weight = 5
+              #  url = "ja/contact"
