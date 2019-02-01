@@ -5,33 +5,43 @@ thumbnail = "images/tn.png"
 description = "about"
 +++
 
----------------------------
-<img src="images/my-photo.png" alt="my-photo">
-Experienced .NET Developer with a demonstrated history of working in the information technology and services industry. Strong engineering professional skilled in programming in C#, T-SQL, JavaScript, Golang, TypeScript and VB.
 
 ---------------------------
+<div>
+<div class="header">
+Experienced .NET Developer with a demonstrated history of working in the information technology and services industry. Strong engineering professional skilled in programming in C#, T-SQL, JavaScript, Golang, TypeScript and VB.</div>
+<div class="photo"><img src="images/my-photo.png" alt="my-photo"></div> 
+</div>
+---------------------------
 
-Hugo is a static site engine written in Go.
+## Skills Profile
 
 
-It makes use of a variety of open source projects including :
+.Net/C# experience:
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+* Over 4 years development experience in <b>C#.NET</b>, including . NET v4/4.5, <b>.NET Core</b>
+* <b>Microsoft Certified Professional - Programming in C#</b>
+* Angular 2+
+* Entity Framework, SQL and stored procedure development with SQL Server
+* Design patterns (DI)
+* Familiarity with OO design and architectural concepts.
+* Experience of producing and working with UML based design documentation.
+* Familiarity with standard OO design patterns
+* Development and consumption of Web Services
+* XML
+* IIS understanding of IIS internals, processing model, and configuration.
+* Experience aligned with functionalities using <b>MVC.Net</b>, JavaScript, jQuery, Angular and CSS
 
-Learn more and contribute on [GitHub](https://github.com/spf13).
 
-## Setup
 
-Some fun facts about [Hugo](http://gohugo.io/):
 
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
+# Career Path 
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
+## Employment History 
 
-Thanks for reading!
+  <b>Netcompany</b>
+  2015- currently  	                    Senior Software Developer .Net  	
+ 
+   <b>University of Warsaw</b>
+  2012- 2015  	                    Specialist – Department for Computer Applications  	
+

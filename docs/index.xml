@@ -109,11 +109,9 @@ Follow the following steps:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://arth11.github.io/my-site/about/</guid>
-      <description>Experienced .NET Developer with a demonstrated history of working in the information technology and services industry. Strong engineering professional skilled in programming in C#, T-SQL, JavaScript, Golang, TypeScript and VB.
-Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including :
- Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
-Setup Some fun facts about Hugo:</description>
+      <description>Experienced .NET Developer with a demonstrated history of working in the information technology and services industry. Strong engineering professional skilled in programming in C#, T-SQL, JavaScript, Golang, TypeScript and VB. 
+ Skills Profile .Net/C# experience:
+ Over 4 years development experience in C#.NET, including . NET v4/4.5, .NET Core Microsoft Certified Professional - Programming in C# Angular 2+ Entity Framework, SQL and stored procedure development with SQL Server Design patterns (DI) Familiarity with OO design and architectural concepts.</description>
     </item>
     
     <item>
@@ -131,9 +129,7 @@ Setup Some fun facts about Hugo:</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://arth11.github.io/my-site/projects/</guid>
-      <description> Portfolio Demo Coder Portfolio This theme is created based on hugo-coder.
-I made it possible to tell yourself more by my change.
- </description>
+      <description>Solar (12.2015- …) – The system is a B2B and B2C platform. The main application supported by this project is webshop which enable users to search, complete and manage Solar’s goods and services. I was involved in this project for 1,5 year. He is responsible for backend and frontend development/maintenance of current functionalities and he ensures continues integration between different part of Solar applications:webshop, Data Warehouse, mobile applications, search engine.</description>
     </item>
     
   </channel>
