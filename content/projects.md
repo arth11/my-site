@@ -37,7 +37,7 @@ description = "projects"
 ---------------------------
 ---------------------------
 
-The work over above mentioned services included:
+The work over above mentioned services includes:
 
 •	Production of C# and SQL code to implement the specified functionality in accordance with the documented design.
 
