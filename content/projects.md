@@ -5,11 +5,11 @@ thumbnail = "images/tn.png"
 description = "projects"
 +++
 ---------------------------
-* Solar (12.2015- …) – The system is a B2B and B2C platform. The main application supported by this project is webshop which enable users to search, complete and manage Solar’s goods and services.  I  was involved in this project for 1,5 year. He is responsible for backend and frontend development/maintenance of current functionalities and he ensures continues integration between different part of Solar applications:webshop, Data Warehouse, mobile applications, search engine.
+* Solar (12.2015- …) – The system is a B2B and B2C platform. The main application supported by this project is webshop which enable users to search, complete and manage Solar’s goods and services. I have bben involved in this project for 3 years. I was responsible for backend and frontend development/maintenance of current functionalities and ensure continues integration between different part of Solar applications:webshop, Data Warehouse, mobile applications, search engine.
 
-	<b>Technologies</b>: Visual Basic, Java Script, Sitcore, Android, MS SQL Server.
+	<b>Technologies</b>: Visual Basic, JavaScript, Sitcore, Android, MS SQL Server.
 
-* DUBU (11.2017-01.2018) – The system is dedicated for support public Danish Childcare Institutions. I was responsible for preabuild phase of the project and was engage in the task from all app leyers: frontend, backend as well as doing unit tests and bug fixing.
+* DUBU (11.2017-01.2018) – The system is dedicated for support public Danish Childcare Institutions. I was responsible for pre-build phase of the project and was engaged in tasks from all app leyers: frontend, backend as well as doing unit tests and bug fixing.
 
 	<b>Technologies</b>: MVC 5, Entity Framework, Linq, Angular 2, Docker
 
@@ -17,7 +17,7 @@ description = "projects"
 
 	<b>Technologies</b>: Sharepoint, Sharegate.
 
-* BBR (10.2015-12.2015) – The system is dedicated for support public Danish communities in real estate management: registering housing, data managment, reporting historical data. I was responsible for preabuild phase of the project.
+* BBR (10.2015-12.2015) – The system is dedicated for support public Danish communities in real estate management: registering housing, data managment, reporting historical data. I was responsible for pre-build phase of the project.
 
 	<b>Technologies</b>: MVC, Angular, Entity Framework, Design patterns (IoC, UoW, Repository Pattern)
 
