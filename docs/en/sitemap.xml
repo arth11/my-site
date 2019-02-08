@@ -3,43 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://arth11.github.io/my-site/pl/about/</loc>
-    <lastmod>2019-01-31T12:51:12+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://arth11.github.io/my-site/post/about-me/</loc>
-    <lastmod>2019-01-30T21:22:40+01:00</lastmod>
+    <loc>https://arth11.github.io/my-site/posts/featuresofcoderportfolio.ja/</loc>
+    <lastmod>2018-08-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://arth11.github.io/my-site/posts/featuresofcoderportfolio/</loc>
     <lastmod>2018-08-03T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://arth11.github.io/my-site/ja/posts/featuresofcoderportfolio/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://arth11.github.io/my-site/posts/featuresofcoderportfolio/"
-                />
   </url>
   
   <url>
     <loc>https://arth11.github.io/my-site/posts/theme-demo/</loc>
     <lastmod>2018-08-03T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://arth11.github.io/my-site/ja/posts/theme-demo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://arth11.github.io/my-site/posts/theme-demo/"
-                />
+  </url>
+  
+  <url>
+    <loc>https://arth11.github.io/my-site/posts/theme-demo.ja/</loc>
+    <lastmod>2018-08-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -64,31 +44,20 @@
   
   <url>
     <loc>https://arth11.github.io/my-site/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://arth11.github.io/my-site/ja/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://arth11.github.io/my-site/about/"
-                />
+  </url>
+  
+  <url>
+    <loc>https://arth11.github.io/my-site/about/</loc>
   </url>
   
   <url>
     <loc>https://arth11.github.io/my-site/</loc>
-    <lastmod>2019-01-31T12:51:12+01:00</lastmod>
+    <lastmod>2018-08-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
                 href="https://arth11.github.io/my-site/pl/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://arth11.github.io/my-site/ja/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -107,11 +76,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
-                href="https://arth11.github.io/my-site/ja/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="https://arth11.github.io/my-site/categories/"
                 />
@@ -119,16 +83,10 @@
   
   <url>
     <loc>https://arth11.github.io/my-site/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://arth11.github.io/my-site/ja/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://arth11.github.io/my-site/contact/"
-                />
+  </url>
+  
+  <url>
+    <loc>https://arth11.github.io/my-site/contact/</loc>
   </url>
   
   <url>
@@ -168,45 +126,17 @@
   </url>
   
   <url>
-    <loc>https://arth11.github.io/my-site/pl/</loc>
-    <lastmod>2019-01-31T12:51:12+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://arth11.github.io/my-site/post/</loc>
-    <lastmod>2019-01-30T21:22:40+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://arth11.github.io/my-site/posts/</loc>
     <lastmod>2018-08-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://arth11.github.io/my-site/ja/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://arth11.github.io/my-site/posts/"
-                />
   </url>
   
   <url>
     <loc>https://arth11.github.io/my-site/projects/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://arth11.github.io/my-site/ja/projects/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://arth11.github.io/my-site/projects/"
-                />
+  </url>
+  
+  <url>
+    <loc>https://arth11.github.io/my-site/projects/</loc>
   </url>
   
   <url>
@@ -217,11 +147,6 @@
                 rel="alternate"
                 hreflang="pl"
                 href="https://arth11.github.io/my-site/pl/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://arth11.github.io/my-site/ja/tags/"
                 />
     <xhtml:link
                 rel="alternate"

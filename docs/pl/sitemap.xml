@@ -12,11 +12,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
-                href="https://arth11.github.io/my-site/ja/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="pl"
                 href="https://arth11.github.io/my-site/pl/"
                 />
@@ -32,11 +27,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
-                href="https://arth11.github.io/my-site/ja/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="pl"
                 href="https://arth11.github.io/my-site/pl/categories/"
                 />
@@ -49,11 +39,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://arth11.github.io/my-site/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://arth11.github.io/my-site/ja/tags/"
                 />
     <xhtml:link
                 rel="alternate"

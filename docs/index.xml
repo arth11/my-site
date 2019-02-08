@@ -6,27 +6,25 @@
     <description>Recent content on Artur Chojnacki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 31 Jan 2019 12:51:12 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 03 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://arth11.github.io/my-site/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>O mnie</title>
-      <link>https://arth11.github.io/my-site/pl/about/</link>
-      <pubDate>Thu, 31 Jan 2019 12:51:12 +0100</pubDate>
+      <title>CoderPortfolioの特徴</title>
+      <link>https://arth11.github.io/my-site/posts/featuresofcoderportfolio.ja/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://arth11.github.io/my-site/pl/about/</guid>
-      <description>Hello</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>https://arth11.github.io/my-site/post/about-me/</link>
-      <pubDate>Wed, 30 Jan 2019 21:22:40 +0100</pubDate>
-      
-      <guid>https://arth11.github.io/my-site/post/about-me/</guid>
-      <description>Hello Welcome to my blog&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;</description>
+      <guid>https://arth11.github.io/my-site/posts/featuresofcoderportfolio.ja/</guid>
+      <description>変更点 ShortCode &amp;ldquo;private content&amp;rdquo;を追加しました 綺麗なサイトを崩さずに、あなたの個人的なコンテンツ（趣味や感情）を簡単に伝えることができます。
+実際の動きについては、&amp;rdquo;テーマデモ&amp;rdquo;をご覧ください。
+リンクに赤い下線のアニメーションを追加しました サイトがよりカラフルに美しくなりました。
+SNSシェアのボタンを追加しました あなたの記事がより影響力を持つようになりました。
+コードのハイライトを変更しました 日本のサービス Qiita のハイライトを参照しました。
+とても優しく美しいハイライトです。
+ヘッダーに影を追加しました より境界線がはっきりしました。
+ShortCode &amp;ldquo;portfolio&amp;rdquo;を追加しました あなたの作品を綺麗に表示できるようになりました。 実際の動きについては、&amp;rdquo;テーマデモ&amp;rdquo;をご覧ください。</description>
     </item>
     
     <item>
@@ -48,6 +46,22 @@ Changed the color scheme of code highlight.</description>
       <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://arth11.github.io/my-site/posts/theme-demo/</guid>
+      <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading This is bold text
+This is bold text
+This is italic text
+This is italic text
+Deleted text
+This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$ and with math blocks:
+$$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$
+   Heading Another heading     text text   text text   text text     Block quotes are written like so.</description>
+    </item>
+    
+    <item>
+      <title>テーマデモ</title>
+      <link>https://arth11.github.io/my-site/posts/theme-demo.ja/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://arth11.github.io/my-site/posts/theme-demo.ja/</guid>
       <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading This is bold text
 This is bold text
 This is italic text
@@ -104,6 +118,26 @@ Follow the following steps:
     </item>
     
     <item>
+      <title>About Hugo</title>
+      <link>https://arth11.github.io/my-site/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arth11.github.io/my-site/about/</guid>
+      <description>このテーマはhugo-coderを元に作成をしています。
+一見綺麗なポートフォリをサイトですが、より個人的なことも伝えられるようにしました。
+変更点の詳細はブログから、&amp;rdquo;FeaturesOfCoderPortfolio&amp;rdquo;を見てください。
+それ以外のDEMOのコンテンツに関してはhugo-coderのものです。
+質問や、報告がありましたら、下記からお願いいたします。
+ open an issue on GitHub
+ ask me on Twitter
+  Hugo is a static site engine written in Go.
+It makes use of a variety of open source projects including:
+ Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
+Setup Some fun facts about Hugo:
+ Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan.</description>
+    </item>
+    
+    <item>
       <title>About me</title>
       <link>https://arth11.github.io/my-site/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -112,6 +146,17 @@ Follow the following steps:
       <description>Experienced .NET Developer with a demonstrated history of working in the information technology and services industry. Strong engineering professional skilled in programming in C#, T-SQL, JavaScript, Golang, TypeScript and VB. 
  Skills Profile .Net/C# experience:
  Over 4 years development experience in C#.NET, including . NET v4/4.5, .NET Core Microsoft Certified Professional - Programming in C# Angular 2+ Entity Framework, SQL and stored procedure development with SQL Server Design patterns (DI) Familiarity with OO design and architectural concepts.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://arth11.github.io/my-site/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arth11.github.io/my-site/contact/</guid>
+      <description> 連絡をとりたいですか? 質問や報告などの連絡は下記からお願いします。
+ open an issue on GitHub
+ ask me on Twitter  </description>
     </item>
     
     <item>
@@ -129,7 +174,18 @@ Follow the following steps:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://arth11.github.io/my-site/projects/</guid>
-      <description>Solar (12.2015- …) – The system is a B2B and B2C platform. The main application supported by this project is webshop which enable users to search, complete and manage Solar’s goods and services. I was involved in this project for 1,5 year. He is responsible for backend and frontend development/maintenance of current functionalities and he ensures continues integration between different part of Solar applications:webshop, Data Warehouse, mobile applications, search engine.</description>
+      <description> Portfolio Demo Coder Portfolio hugo-coderを元に作成しました。
+より自分を伝えられるようにしました。
+ </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://arth11.github.io/my-site/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arth11.github.io/my-site/projects/</guid>
+      <description>Solar (12.2015- …) – The system is a B2B and B2C platform. The main application supported by this project is webshop which enable users to search, complete and manage Solar’s goods and services. I have bben involved in this project for 3 years. I was responsible for backend and frontend development/maintenance of current functionalities and ensure continues integration between different part of Solar applications:webshop, Data Warehouse, mobile applications, search engine.</description>
     </item>
     
   </channel>
